@@ -1,0 +1,10 @@
+title = "Hello! I'm David"
+author = "David Eriksson"
+description = "Software developer and UX enthusiast"
+profilePicture = "images/profile.jpg"
+doNotLoadAnimations = true
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/daverik"

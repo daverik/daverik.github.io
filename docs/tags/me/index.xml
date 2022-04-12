@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>me on Software developer and UX enthusiast</title>
+    <link>http://example.org/tags/me/</link>
+    <description>Recent content in me on Software developer and UX enthusiast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2022 13:17:40 +0200</lastBuildDate><atom:link href="http://example.org/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On becoming a better learner</title>
+      <link>http://example.org/posts/knowledge-database/</link>
+      <pubDate>Tue, 12 Apr 2022 13:17:40 +0200</pubDate>
+      
+      <guid>http://example.org/posts/knowledge-database/</guid>
+      
+        <description>So much of what I do and learn is ephemeral. Most of the things I read everyday are only temporarily stored in my brain.
+But this changes today.
+At least I hope so. Because today I discovered Obsidian. I plan to use this to create my own Knowledge Database by saving articles, learnings, bookmarks, etc. in one repository which I can go back to and refresh my memory.
+Another part of improving my learning skills is by writing posts like these.</description>
+      
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Tue, 12 Apr 2022 12:41:24 +0200</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      
+        <description>So I&amp;rsquo;m trying out this Hugo thing. And it&amp;rsquo;s pretty great! Great documentation and easy to get started with. And the first theme I picked fits me pretty well. Let&amp;rsquo;s see if I stick with it.
+I intend to use this blog primarily as a tool for myself to keep a journal of my everyday findings and thoughs, and to improve my writing skills.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
